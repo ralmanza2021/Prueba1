@@ -1,4 +1,4 @@
-Esta es la historia de Rafael Almanza Medina.
+﻿Esta es la historia de Rafael Almanza Medina.
 
 Rafael tiene 50 años y nació en Ciudad de México.
 
@@ -7,3 +7,5 @@ Hoy hablaremos de su historia.
 Actualmente toma los cursos de Platzi.
 
 Soy un futuro CEO.
+
+Hoy hablaremos de tu vida.
