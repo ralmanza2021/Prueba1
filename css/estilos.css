@@ -38,3 +38,9 @@ body{
 #post{
     padding:1em;
 }
+
+#container2
+{
+    width:80%;
+    text-align: center;
+}
